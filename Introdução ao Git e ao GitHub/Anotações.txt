@@ -1,0 +1,4 @@
+#Anotações 
+
+Criado com o Objetivo de construção de repositório e comandos Git, com intuito de avaliar e desenvolver em forma de representação de estudo.
+
